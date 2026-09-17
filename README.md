@@ -1,65 +1,11 @@
-# Hey There! 👋
+![faleir0x](./banner.png)
 
-I am a Software Development Intern at <a href="https://compor.digital/" target="_blank">Agência Compor</a>, acting as a **Full-stack Developer** with a focus on infrastructure and high-availability systems.
+I'm focused on offensive security, mainly web application and API pentesting.
 
-### >_ What I do at Compor
-* **Full-stack Development**: Building Multi-Tenant apps and CRM systems from frontend to business logic.
-* **Architecture**: Designing database schemas and orchestrating AI agents for smarter workflows.
-* **Infrastructure**: Managing the full deployment lifecycle, including CI/CD pipelines and Docker Swarm.
-* **Reliability**: Configuring Nginx reverse proxies and DNS zones to ensure scalable and secure environments.
+I came to security from software development, so I've spent a lot of time building the kind of systems I now try to break, and that still shapes how I hunt for bugs.
 
----
+I study every day through hands-on labs and CTFs, and I write about what I break (and how to fix it) on my site: [faleir0x.com](https://faleir0x.com)
 
-### >_ Beyond the Office
-Currently, I spend my free time diving into **Reverse Engineering** and **Malware Analysis**. It’s a personal deep-dive driven by a curiosity for low-level software behavior and security.
+**Stack:** Burp Suite, Caido, Nmap, ffuf, SQLmap, Nuclei · Python, Go, Bash, Docker, Linux
 
----
-
-## >_ Tech Stack
-
-### // Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,python,c,bash" />
-</div>
-
-### // Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,postgres,mongodb,redis,rabbitmq" />
-</div>
-
-### // Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,htmx" />
-</div>
-
-### // DevOps & Observability
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,grafana,prometheus" />
-</div>
-
-### // Tools & OS
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,arch,windows,kali" />
-</div>
-
----
-
-## >_ Currently Reading
-
-| | |
-| :---: | --- |
-| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/low_level_cover.jpg" width="160" alt="Low-Level Programming cover"/> | **Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture**<br>*by Igor Zhirkov*<br><br>Explores the bridge between high-level code and hardware. This book covers modern Intel 64 architecture, assembly language, and C, with a deep dive into compilation processes, memory management, and performance optimization. |
-| <img src="https://raw.githubusercontent.com/cauefaleiros/cauefaleiros/main/practical_malware_cover.jpg" width="160" alt="Practical Malware Analysis cover"/> | **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**<br>*by Michael Sikorski and Andrew Honig*<br><br>The "bible" of malware analysis. It provides a comprehensive, hands-on approach to dissecting malicious binaries using static and dynamic analysis, debugging, and reverse engineering to understand attacker's motives and techniques. |
-
----
-
-## >_ Connect with Me
-
-<div align="left">
-  <a href="mailto:cauefaleiros@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/cauefaleiros/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</div>
+Wanna chat? [contact@faleir0x.com](mailto:contact@faleir0x.com)
