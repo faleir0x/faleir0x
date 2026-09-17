@@ -1,4 +1,4 @@
-![faleir0x](./banner.png)
+![faleir0x](./banner-dark.png)
 
 I'm focused on offensive security, mainly web application and API pentesting.
 
